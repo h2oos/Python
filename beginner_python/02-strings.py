@@ -1,2 +1,3 @@
 me = "Weibin"
-print(me)
+
+me = "W\te\ti\tb\ti\tn\n"
